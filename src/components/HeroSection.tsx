@@ -21,7 +21,7 @@ export function HeroSection() {
             <div className="flex items-center gap-2 mb-6">
               <Leaf className="text-emerald-600" size={24} />
               <span className="text-emerald-700 italic">
-                "Born and raised in 'Energy Poverty', thankfully, I'm now working to Solve it."
+                "International Development | Climate Change & Energy | ESG | Gender Equality"
               </span>
             </div>
             <p className="mb-8 text-gray-600 max-w-xl">

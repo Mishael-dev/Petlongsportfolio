@@ -12,7 +12,7 @@ export function MainBiographySection() {
           <div className="grid md:grid-cols-5 gap-12 items-start">
             <div className="md:col-span-2">
               <ImageWithFallback 
-                src="https://images.unsplash.com/photo-1581065178047-8ee15951ede6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjB3b21hbiUyMHBvcnRyYWl0fGVufDF8fHx8MTc2MTM0OTczOHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral" 
+                src="https://media.licdn.com/dms/image/v2/D4D03AQHj_NXhk6hjMg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714938478803?e=1762992000&v=beta&t=9e_LvCzsgFqzEPJx9JmD7MKSdytSfHMxkRNgQ5-gsOc" 
                 alt="Petlong Dakhling - Professional headshot"
                 className="rounded-2xl shadow-xl w-full object-cover aspect-[3/4]"
               />

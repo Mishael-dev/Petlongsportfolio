@@ -25,8 +25,8 @@ export function ContactSection() {
     {
       icon: Mail,
       label: 'Email',
-      value: 'contact@petlongdakhling.com',
-      link: 'mailto:contact@petlongdakhling.com',
+      value: 'markpetlong@gmail.com',
+      link: 'mailto:markpetlong@gmail.com',
     },
     {
       icon: Linkedin,
